@@ -1,0 +1,27 @@
+{
+  "name": "bankholiday",
+  "version": "1.0.0",
+  "description": "testing some express, node, mongo functions and setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcgrory/nodetest.git"
+  },
+  "author": "jmcgrory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcgrory/nodetest/issues"
+  },
+  "homepage": "https://github.com/jmcgrory/nodetest#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "file-system": "^2.2.2",
+    "mongoose": "^4.10.3",
+    "multer": "^1.3.0"
+  }
+}
